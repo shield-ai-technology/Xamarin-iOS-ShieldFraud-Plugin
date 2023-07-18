@@ -1,0 +1,37 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/akash/Documents/xamrin_ios/ShieldFraud_iOS/ShieldFraud_iOS/ShieldFraud_iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/akash/Documents/xamrin_ios/ShieldFraud_iOS/ShieldFraud_iOS/ShieldFraud_iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/akash/Documents/xamrin_ios/ShieldFraud_iOS/ShieldFraud_iOS/ShieldFraud_iOS.csproj",
+        "projectName": "ShieldFraud_iOS",
+        "projectPath": "/Users/akash/Documents/xamrin_ios/ShieldFraud_iOS/ShieldFraud_iOS/ShieldFraud_iOS.csproj",
+        "packagesPath": "/Users/akash/.nuget/packages/",
+        "outputPath": "/Users/akash/Documents/xamrin_ios/ShieldFraud_iOS/ShieldFraud_iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/akash/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {}
+      }
+    }
+  }
+}

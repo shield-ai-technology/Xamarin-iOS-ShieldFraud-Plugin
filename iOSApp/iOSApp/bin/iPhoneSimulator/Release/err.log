@@ -1,0 +1,126 @@
+objc[9972]: Class CDPKeychainItemDescriptor is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CoreCDPInternal.framework/CoreCDPInternal (0x160616d28) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CoreCDP.framework/CoreCDP (0x1592d8d28). One of the two will be used. Which one is undefined.
+objc[9972]: Class CDPCAWalrusReporter is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CoreCDPInternal.framework/CoreCDPInternal (0x160617598) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CoreCDP.framework/CoreCDP (0x1592d8f08). One of the two will be used. Which one is undefined.
+objc[9972]: Class CDPCAReporter is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CoreCDPInternal.framework/CoreCDPInternal (0x160617368) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CoreCDP.framework/CoreCDP (0x1592d9138). One of the two will be used. Which one is undefined.
+objc[9972]: Class CDPRecoveryKeyCache is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CoreCDPInternal.framework/CoreCDPInternal (0x160617098) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CoreCDP.framework/CoreCDP (0x1592d91d8). One of the two will be used. Which one is undefined.
+objc[9972]: Class CDPCABackupRecoveryReporter is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CoreCDPInternal.framework/CoreCDPInternal (0x160618268) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CoreCDP.framework/CoreCDP (0x1592d93b8). One of the two will be used. Which one is undefined.
+objc[9972]: Class NSURLSessionDelegate is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/NetworkServiceProxy.framework/NetworkServiceProxy (0x15ad96d48) and /Users/akash/Library/Developer/CoreSimulator/Devices/6599BF53-C92C-498F-803B-BACE1F8EF868/data/Containers/Bundle/Application/29732CC1-1CBF-4694-A652-609FC639A55C/iOSApp.app/iOSApp (0x10282beb8). One of the two will be used. Which one is undefined.
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2023-07-14 18:21:08.910546+0530 iOSApp[9972:190472] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=9972
+2023-07-14 18:21:08.912981+0530 iOSApp[9972:190472] SecTaskCopyDebugDescription: iOSApp[9972]/0#-1 LF=0
+2023-07-14 18:21:09.008970+0530 iOSApp[9972:190472] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=9972
+2023-07-14 18:21:09.009169+0530 iOSApp[9972:190472] SecTaskCopyDebugDescription: iOSApp[9972]/0#-1 LF=0
+2023-07-14 18:21:09.270597+0530 iOSApp[9972:190508] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=9972
+2023-07-14 18:21:09.270746+0530 iOSApp[9972:190508] SecTaskCopyDebugDescription: iOSApp[9972]/0#-1 LF=0
+2023-07-14 18:21:09.397643+0530 iOSApp[9972:190548] [unspecified] container_query_get_single_result: error = 2→(98) NOT_CODESIGNED
+2023-07-14 18:21:09.397873+0530 iOSApp[9972:190548] [unspecified] container_system_group_path_for_identifier: error = ((container_error_t)98) NOT_CODESIGNED
+2023-07-14 18:21:09.397942+0530 iOSApp[9972:190548] [MC] Error getting system group container for systemgroup.com.apple.configurationprofiles: 98
+2023-07-14 18:21:09.398414+0530 iOSApp[9972:190548] [MC] Failed to get profile system group container path. Overriding with expected path: /Users/akash/Library/Developer/CoreSimulator/Devices/6599BF53-C92C-498F-803B-BACE1F8EF868/data/Containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles
+2023-07-14 18:21:09.422516+0530 iOSApp[9972:190543] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=9972
+2023-07-14 18:21:09.422735+0530 iOSApp[9972:190543] SecTaskCopyDebugDescription: iOSApp[9972]/0#-1 LF=0
+2023-07-14 18:21:09.442011+0530 iOSApp[9972:190472] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=9972
+2023-07-14 18:21:09.442216+0530 iOSApp[9972:190472] SecTaskCopyDebugDescription: iOSApp[9972]/0#-1 LF=0
+2023-07-14 18:21:09.442314+0530 iOSApp[9972:190472] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=9972
+2023-07-14 18:21:09.442453+0530 iOSApp[9972:190472] SecTaskCopyDebugDescription: iOSApp[9972]/0#-1 LF=0
+2023-07-14 18:21:09.565578+0530 iOSApp[9972:190472] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=9972
+2023-07-14 18:21:09.565769+0530 iOSApp[9972:190472] SecTaskCopyDebugDescription: iOSApp[9972]/0#-1 LF=0
+2023-07-14 18:21:09.655252+0530 iOSApp[9972:190508] [Client] Updating selectors failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process." UserInfo={NSDebugDescription=The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process.}
+2023-07-14 18:21:09.655701+0530 iOSApp[9972:190540] [Client] Synchronous remote object proxy returned error: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process." UserInfo={NSDebugDescription=The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process.}
+2023-07-14 18:21:09.656625+0530 iOSApp[9972:190508] [Client] Updating selectors failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process." UserInfo={NSDebugDescription=The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process.}
+2023-07-14 18:21:09.656758+0530 iOSApp[9972:190540] [Client] Synchronous remote object proxy returned error: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process." UserInfo={NSDebugDescription=The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process.}
+2023-07-14 18:21:09.657400+0530 iOSApp[9972:190508] [Client] Updating selectors failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process." UserInfo={NSDebugDescription=The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process.}
+2023-07-14 18:21:09.657421+0530 iOSApp[9972:190540] [Client] Synchronous remote object proxy returned error: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process." UserInfo={NSDebugDescription=The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process.}
+2023-07-14 18:21:09.659675+0530 iOSApp[9972:190508] [Client] Updating selectors failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process." UserInfo={NSDebugDescription=The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process.}
+2023-07-14 18:21:09.659852+0530 iOSApp[9972:190508] [Client] Updating selectors after delegate addition failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process." UserInfo={NSDebugDescription=The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process.}
+2023-07-14 18:21:09.696585+0530 iOSApp[9972:190541] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=9972
+2023-07-14 18:21:09.696947+0530 iOSApp[9972:190541] SecTaskCopyDebugDescription: iOSApp[9972]/0#-1 LF=0
+2023-07-14 18:21:09.847039+0530 iOSApp[9972:190540] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=9972
+2023-07-14 18:21:09.847449+0530 iOSApp[9972:190540] SecTaskCopyDebugDescription: iOSApp[9972]/0#-1 LF=0
+2023-07-14 18:21:10.123281+0530 iOSApp[9972:190543] Unknown platform linking against CloudDocs framework 7
+2023-07-14 18:21:10.174519+0530 iOSApp[9972:190541] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=9972
+2023-07-14 18:21:10.174943+0530 iOSApp[9972:190541] SecTaskCopyDebugDescription: iOSApp[9972]/0#-1 LF=0
+2023-07-14 18:21:10.308202+0530 iOSApp[9972:190508] [unspecified] container_query_get_single_result: error = 2→(98) NOT_CODESIGNED
+2023-07-14 18:21:10.308279+0530 iOSApp[9972:190508] [unspecified] container_system_group_path_for_identifier: error = ((container_error_t)98) NOT_CODESIGNED
+2023-07-14 18:21:10.413189+0530 iOSApp[9972:190508] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=9972
+2023-07-14 18:21:10.413403+0530 iOSApp[9972:190508] SecTaskCopyDebugDescription: iOSApp[9972]/0#-1 LF=0
+2023-07-14 18:21:10.413529+0530 iOSApp[9972:190508] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=9972
+2023-07-14 18:21:10.413614+0530 iOSApp[9972:190508] SecTaskCopyDebugDescription: iOSApp[9972]/0#-1 LF=0
+2023-07-14 18:21:10.888778+0530 iOSApp[9972:190472] Akash Result{
+    "device_intelligence" =     {
+        "app_tampering" = 0;
+        debugging = 1;
+        "device_score" = 28;
+        hooking = 0;
+        "is_emulated" = 1;
+        "is_jailbroken" = 0;
+        "running_clone_apps" = 0;
+        "running_gps_spoofers" = 0;
+        "running_screen_sharing" = 0;
+        "running_vpn_spoofers" = 0;
+        "shield_id" = ddaec1aaeb5a2516667c9f28735c45b2;
+        "suspicious_factory_reset" = 0;
+    };
+    "is_payload_tampered" = 0;
+    platform = iOS;
+    "session_id" = 753e7f693234406db36103fa003523f3;
+    timestamp = 1689339070;
+    version = "1.1.0";
+}
+2023-07-14 18:21:11.269334+0530 iOSApp[9972:190554] Dict:{
+    key1 = Value1;
+    key2 = Value2;
+}
+2023-07-14 18:21:11.272903+0530 iOSApp[9972:190554] SessionID==753e7f693234406db36103fa003523f3
+2023-07-14 18:21:11.316098+0530 iOSApp[9972:190554] [Assert] Unsupported use of UIKit API off the main thread: UIAccessibilityIsAssistiveTouchRunning()
+2023-07-14 18:21:11.322228+0530 iOSApp[9972:190548] [Client] Updating selectors failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process." UserInfo={NSDebugDescription=The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process.}
+2023-07-14 18:21:11.322405+0530 iOSApp[9972:190540] [Client] Synchronous remote object proxy returned error: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process." UserInfo={NSDebugDescription=The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process.}
+2023-07-14 18:21:11.323201+0530 iOSApp[9972:190508] [Client] Updating selectors failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process." UserInfo={NSDebugDescription=The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process.}
+2023-07-14 18:21:11.323435+0530 iOSApp[9972:190540] [Client] Synchronous remote object proxy returned error: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process." UserInfo={NSDebugDescription=The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process.}
+2023-07-14 18:21:11.323970+0530 iOSApp[9972:190508] [Client] Updating selectors failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process." UserInfo={NSDebugDescription=The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process.}
+2023-07-14 18:21:11.324141+0530 iOSApp[9972:190540] [Client] Synchronous remote object proxy returned error: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process." UserInfo={NSDebugDescription=The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process.}
+2023-07-14 18:21:11.324716+0530 iOSApp[9972:190554] {
+    "device_intelligence" =     {
+        "app_tampering" = 0;
+        debugging = 1;
+        "device_score" = 28;
+        hooking = 0;
+        "is_emulated" = 1;
+        "is_jailbroken" = 0;
+        "running_clone_apps" = 0;
+        "running_gps_spoofers" = 0;
+        "running_screen_sharing" = 0;
+        "running_vpn_spoofers" = 0;
+        "shield_id" = ddaec1aaeb5a2516667c9f28735c45b2;
+        "suspicious_factory_reset" = 0;
+    };
+    "is_payload_tampered" = 0;
+    platform = iOS;
+    "session_id" = 753e7f693234406db36103fa003523f3;
+    timestamp = 1689339070;
+    version = "1.1.0";
+}
+2023-07-14 18:21:11.325025+0530 iOSApp[9972:190508] [Client] Updating selectors failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process." UserInfo={NSDebugDescription=The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process.}
+2023-07-14 18:21:11.325113+0530 iOSApp[9972:190508] [Client] Updating selectors after delegate addition failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process." UserInfo={NSDebugDescription=The connection to service named com.apple.commcenter.coretelephony.xpc was invalidated: failed at lookup with error 3 - No such process.}
+2023-07-14 18:21:11.696223+0530 iOSApp[9972:190472] Wowwwww Complition Handler......
+2023-07-14 18:21:11.696879+0530 iOSApp[9972:190472] Akash Result{
+    "device_intelligence" =     {
+        "app_tampering" = 0;
+        debugging = 1;
+        "device_score" = 34;
+        hooking = 0;
+        "is_emulated" = 1;
+        "is_jailbroken" = 0;
+        "running_clone_apps" = 0;
+        "running_gps_spoofers" = 0;
+        "running_screen_sharing" = 0;
+        "running_vpn_spoofers" = 0;
+        "shield_id" = ddaec1aaeb5a2516667c9f28735c45b2;
+        "suspicious_factory_reset" = 0;
+    };
+    "is_payload_tampered" = 0;
+    platform = iOS;
+    "session_id" = 753e7f693234406db36103fa003523f3;
+    timestamp = 1689339071;
+    version = "1.1.0";
+}
+2023-07-14 18:21:19.657255+0530 iOSApp[9972:190472] [Process] 0x1750a4380 - GPUProcessProxy::gpuProcessExited: reason=IdleExit
+2023-07-14 18:21:19.658354+0530 iOSApp[9972:190472] [Process] 0x17506c150 - [PID=9974] WebProcessProxy::gpuProcessExited: reason=IdleExit

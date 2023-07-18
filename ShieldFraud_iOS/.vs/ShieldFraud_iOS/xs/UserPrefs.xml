@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShieldFraud_iOS/ApiDefinition.cs">
+    <Files>
+      <File FileName="ShieldFraud_iOS/ApiDefinition.cs" Line="150" Column="99" />
+      <File FileName="ShieldFraud_iOS/Properties/AssemblyInfo.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShieldFraud_iOS" expanded="True">
+            <Node name="ShieldFraud_iOS" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="NativeReferenceFolder" expanded="True">
+                <Node name="NativeReference" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

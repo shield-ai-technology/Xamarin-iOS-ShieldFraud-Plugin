@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/iOSApp.csproj": {}
+  },
+  "projects": {
+    "/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/iOSApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/iOSApp.csproj",
+        "projectName": "iOSApp",
+        "projectPath": "/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/iOSApp.csproj",
+        "packagesPath": "/Users/akash/.nuget/packages/",
+        "outputPath": "/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/akash/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

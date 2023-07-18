@@ -1,0 +1,8 @@
+/Users/akash/Documents/xamrin_ios/ShieldFraud_iOS/ShieldFraud_iOS/bin/Release/ShieldFraud_iOS.dll
+/Users/akash/Documents/xamrin_ios/ShieldFraud_iOS/ShieldFraud_iOS/bin/Release/ShieldFraud_iOS.pdb
+/Users/akash/Documents/xamrin_ios/ShieldFraud_iOS/ShieldFraud_iOS/obj/Release/_ProcessedBundleResourcesPath.items
+/Users/akash/Documents/xamrin_ios/ShieldFraud_iOS/ShieldFraud_iOS/obj/Release/_ProcessedContentPath.items
+/Users/akash/Documents/xamrin_ios/ShieldFraud_iOS/ShieldFraud_iOS/obj/Release/ShieldFraud_iOS.csproj.CoreCompileInputs.cache
+/Users/akash/Documents/xamrin_ios/ShieldFraud_iOS/ShieldFraud_iOS/obj/Release/ShieldFraud_iOS.dll
+/Users/akash/Documents/xamrin_ios/ShieldFraud_iOS/ShieldFraud_iOS/obj/Release/ShieldFraud_iOS.pdb
+/Users/akash/Documents/xamrin_ios/ShieldFraud_iOS/ShieldFraud_iOS/obj/Release/ShieldFraud_iOS.csproj.AssemblyReference.cache

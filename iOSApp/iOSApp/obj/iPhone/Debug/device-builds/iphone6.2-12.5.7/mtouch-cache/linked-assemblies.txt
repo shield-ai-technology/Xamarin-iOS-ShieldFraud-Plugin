@@ -1,0 +1,6 @@
+RemoveDynamicRegistrar:true
+/Users/akash/Projects/New/iOSApp/iOSApp/bin/iPhone/Debug/device-builds/iphone6.2-12.5.7/iOSApp.app:/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/iOSApp.exe
+/Users/akash/Projects/New/iOSApp/iOSApp/bin/iPhone/Debug/device-builds/iphone6.2-12.5.7/iOSApp.app:/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/mscorlib.dll
+/Users/akash/Projects/New/iOSApp/iOSApp/bin/iPhone/Debug/device-builds/iphone6.2-12.5.7/iOSApp.app:/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/akash/Projects/New/iOSApp/iOSApp/bin/iPhone/Debug/device-builds/iphone6.2-12.5.7/iOSApp.app:/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/System.dll
+/Users/akash/Projects/New/iOSApp/iOSApp/bin/iPhone/Debug/device-builds/iphone6.2-12.5.7/iOSApp.app:/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/ShieldFraud_iOS.dll

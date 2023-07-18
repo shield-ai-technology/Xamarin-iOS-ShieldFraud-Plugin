@@ -1,0 +1,12 @@
+RemoveDynamicRegistrar:false
+/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/bin/iPhoneSimulator/Release/iOSApp.app:/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/iOSApp.exe
+/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/bin/iPhoneSimulator/Release/iOSApp.app:/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/mscorlib.dll
+/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/bin/iPhoneSimulator/Release/iOSApp.app:/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/bin/iPhoneSimulator/Release/iOSApp.app:/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/bin/iPhoneSimulator/Release/iOSApp.app:/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Mono.Security.dll
+/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/bin/iPhoneSimulator/Release/iOSApp.app:/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.Xml.dll
+/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/bin/iPhoneSimulator/Release/iOSApp.app:/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.Numerics.dll
+/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/bin/iPhoneSimulator/Release/iOSApp.app:/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.Core.dll
+/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/bin/iPhoneSimulator/Release/iOSApp.app:/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.Net.Http.dll
+/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/bin/iPhoneSimulator/Release/iOSApp.app:/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.Drawing.Common.dll
+/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/bin/iPhoneSimulator/Release/iOSApp.app:/Users/akash/Documents/xamrin_ios/iOSApp/iOSApp/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/ShieldFraud_iOS.dll

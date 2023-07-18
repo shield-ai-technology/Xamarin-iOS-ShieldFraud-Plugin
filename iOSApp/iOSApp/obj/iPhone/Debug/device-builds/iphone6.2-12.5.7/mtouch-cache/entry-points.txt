@@ -1,0 +1,28 @@
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/mscorlib.dll
+	/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_managed_ref
+	/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_set_gchandle_with_flags_safe
+	/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_UIApplicationMain
+	/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$__TtC11ShieldFraud13BlockedDialog
+	/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/ShieldFraud_iOS.dll
+ObjectiveCClass=OBJC_CLASS_$__TtC11ShieldFraud13Configuration
+	/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/ShieldFraud_iOS.dll
+ObjectiveCClass=OBJC_CLASS_$__TtC11ShieldFraud6Shield
+	/Users/akash/Projects/New/iOSApp/iOSApp/obj/iPhone/Debug/device-builds/iphone6.2-12.5.7/mtouch-cache/1-Link/ShieldFraud_iOS.dll
+Function=mono_pmip
